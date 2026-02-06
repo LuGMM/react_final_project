@@ -360,7 +360,7 @@ select {
 /* Movie Details Page */
 
 .movie_container {
-  height: 90vh;
+  min-height: 90vh;
 }
 
 .movie_information {
