@@ -539,6 +539,9 @@ footer {
   .movie_card_wrapper {
     width: calc(100% / 2);
   }
+  .movie_container {
+    min-height: 90vh;
+  }
 }
 
 @media (max-width: 480px) {
