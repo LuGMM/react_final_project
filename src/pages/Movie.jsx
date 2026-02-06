@@ -18,7 +18,7 @@ const Movie = () => {
   }, [id]);
 
   return (
-    <div>
+    <div className="movie_container">
       <div className="movie_information">
         <div className="poster_wrapper">
           <figure>
